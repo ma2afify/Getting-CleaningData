@@ -1,5 +1,5 @@
 ##Code book for the data
-* Names of the variables in the tidy data set (81 variable):
+Names of the variables in the tidy data set (81 variable):
 - subject 		(ranged from 1 to 30 indicating each of the 30 volunteers in the experiment)
 - activity		(Response variable including six possible activities "WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING ")
 - tBodyAcc-mean()-X
@@ -82,7 +82,9 @@
 - fBodyBodyGyroJerkMag-std()	
 - fBodyBodyGyroJerkMag-meanFreq()
 
-* Steps perfomed for obtaining the tidy data set:
+
+Steps perfomed for obtaining the tidy data set:
+
 1- Analyzing the data
 File Containing Training Set: 'train/X_train.txt'
 File Containing Training Labels: 'train/y_train.txt'
